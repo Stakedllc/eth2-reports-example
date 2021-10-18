@@ -1,0 +1,17 @@
+[
+  { "timestamp": "2021-10-18", "delegation": 0, "reward": 0.006366546000000001 },
+  { "timestamp": "2021-10-17", "delegation": 0, "reward": 0.009559636 },
+  { "timestamp": "2021-10-16", "delegation": 0, "reward": 0.009721895999999999 },
+  { "timestamp": "2021-10-15", "delegation": 0, "reward": 0.009691477999999998 },
+  { "timestamp": "2021-10-14", "delegation": 256.0, "reward": 0.009576917 },
+  { "timestamp": "2021-10-13", "delegation": 0, "reward": 0.009571023 },
+  { "timestamp": "2021-10-12", "delegation": 0, "reward": 0.009717782000000001 },
+  { "timestamp": "2021-10-11", "delegation": 0, "reward": 0.009719458 },
+  { "timestamp": "2021-10-10", "delegation": 0, "reward": 0.009715795000000001 },
+  { "timestamp": "2021-10-09", "delegation": 0, "reward": 0.009770944 },
+  { "timestamp": "2021-10-08", "delegation": 0, "reward": 0.009661082999999999 },
+  { "timestamp": "2021-10-07", "delegation": 0, "reward": 0.009770273 },
+  { "timestamp": "2021-10-06", "delegation": 0, "reward": 0.009648981 },
+  { "timestamp": "2021-10-05", "delegation": 0, "reward": 0.004966028000000001 },
+  { "timestamp": "2021-10-04", "delegation": 64.0, "reward": 0 }
+]
