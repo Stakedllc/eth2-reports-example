@@ -10,3 +10,4 @@
 2. Add your Staked API Key to the .env file.
 3. Add the target network (mainnet, testnet) to the .env file.
 4. Add the aggregation period (raw, daily, monthly) to the .env file.
+5. Run `python generate_report.py`
